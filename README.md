@@ -1,6 +1,9 @@
 # 💼 Portfólio - Érick Hideki Oyakawa Awata
 
 ## 📸 Introdução
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/836ffbde-3282-431e-bb12-4f88ce887dc9" alt="foto">
+</p>
 
 ### 🎓 Histórico Acadêmico
 Formado em **Técnico de Informática** pelo **Instituto Ideia** em 2022, onde adquiri uma sólida base em programação, redes e suporte técnico.  
