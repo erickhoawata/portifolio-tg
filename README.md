@@ -20,11 +20,11 @@ Desde **Maio de 2022**, atuo como **Desenvolvedor Web na Agência Malvis**, onde
 
 ## 🚀 Meus Principais Conhecimentos
 
-- 💻 **Linguagens de Programação:** Python, JavaScript, Java, C++, PHP e TypeScript
+- 💻 **Linguagens de Programação:** Python, JavaScript, Java, PHP e TypeScript
 - 🌐 **Desenvolvimento Web:** HTML, CSS e ASP.NET
-- 🗃️ **Banco de Dados:** MySQL, MongoDB, Postgress
-- 🔧 **Ferramentas de Versionamento:** Git, GitHub  
-- 📈 **Metodologias Ágeis:** Scrum, Kanban  
+- 🗃️ **Banco de Dados:** MySQL, MongoDB e Postgress
+- 🔧 **Ferramentas de Versionamento:** Git e GitHub  
+- 📈 **Metodologias Ágeis:** Scrum e Kanban  
 
 ---
 
