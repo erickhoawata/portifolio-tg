@@ -6,22 +6,23 @@
 </p>
 
 ### 🎓 Histórico Acadêmico
-Formado em **Técnico de Informática** pelo **Instituto Ideia** em 2022, onde adquiri uma sólida base em programação, redes e suporte técnico.  
-Atualmente, estou no **5º semestre de Análise e Desenvolvimento de Sistemas** na **FATEC São José dos Campos (FATEC-SJC)**, onde desenvolvo habilidades em programação, desenvolvimento web e metodologias ágeis.  
+Meu nome é **Erick Hideki Oyakawa Awata**, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico em Informática realizado pelo Instituto IDEIA. Durante esse curso adquiri conhecimentos em HTML, CSS, Java Script, React Native e MySQL. Com o objetivo de aumentar o meu aprendizado e conseguir maior destaque no mercado de trabalho, em 2023 ingressei na **FATEC-SJC** no curso de **Análise e Desenvolvimeto de Sistemas** e atualmente estou no 5º Semestre.
 
 Realizei **diversos cursos complementares** que ampliaram meu conhecimento em tecnologias modernas, frameworks e melhores práticas de desenvolvimento de software.
 
 ### 💼 Histórico Profissional
+Profissionalmente, em 2021 iniciei a minha carreira como Estagiário de Informática, na **Escola Nagaoka Artes Marciais**, no qual era responsável pelo desenvolvimento de planilhas, atuava como social midia e na área de design da empresa, no qual trabalhei até 2022.
+
 Atuo na área de tecnologia, com foco no **desenvolvimento de sites** e **suporte técnico**. Possuo experiência no **desenvolvimento de interfaces web**, **User Experience** e otimização de processos utilizando soluções inovadoras.
 
-Desde **Maio de 2022**, atuo como **Desenvolvedor Web na Agência Malvis**, onde desenvolvo soluções personalizadas para clientes, utilizando tecnologias modernas para atender às necessidades de negócios de maneira eficiente. Nessa empresa, aprimoro habilidades em UX, JavaScript, FTP, servidores e design gráfico.
+Desde **Maio de 2022**, atuo como **Desenvolvedor Web na Agência Malvis**, onde desenvolvo soluções personalizadas para clientes, utilizando tecnologias modernas para atender às necessidades de negócios de maneira eficiente. Nessa empresa, aprimoro habilidades em HTML, CSS, UX, JavaScript, FTP, Servidores e Design Gráfico.
 
 ---
 
 ## 🚀 Meus Principais Conhecimentos
 
-- 💻 **Linguagens de Programação:** Python, JavaScript, Java, PHP e TypeScript
 - 🌐 **Desenvolvimento Web:** HTML, CSS e ASP.NET
+- 💻 **Linguagens de Programação:** Python, JavaScript, Java, PHP e TypeScript
 - 🗃️ **Banco de Dados:** MySQL, MongoDB e Postgress
 - 🔧 **Ferramentas de Versionamento:** Git e GitHub  
 - 📈 **Metodologias Ágeis:** Scrum e Kanban  
@@ -38,16 +39,28 @@ Desde **Maio de 2022**, atuo como **Desenvolvedor Web na Agência Malvis**, onde
 
 ## 📝 Meus Projetos
 
-### 📌 Primeiro API - DDT ( Função: Scrum Master )
+<details><summary>📌 Primeiro API - DDT ( Função: Scrum Master )</summary>
 
-## 💼 Empresa  
-O **DDT (Development Dream Team)** é um time de desenvolvimento web do **1° Bimestre de Análise e Desenvolvimento da FATEC São José dos Campos**. A equipe tem como objetivo principal desenvolver um **sistema web interativo** que explique todos os processos e artefatos da **metodologia ágil Scrum**, focando em criar uma aplicação fácil e intuitiva. O intuito é proporcionar uma **melhor experiência para o usuário**, permitindo que ele aplique os conceitos adquiridos em seus projetos futuros.
+## 💼 Empresa Interna - FATEC 
+
+- **Professor P2** - Antônio Egydio São Thiago Graça
+- **Professor M2** - Jean Carlos Lourenço Costa
 
 ## ❗ Problema  
-O principal problema identificado era a **falta de um sistema intuitivo e prático que explicasse o Scrum**, dificultando a **compreensão e aplicação da metodologia ágil**. Isso resultava em **aprendizado fragmentado e baixa retenção dos conceitos fundamentais**.
+Toda vez que um funcionário novo que não possua conhecimento do Método Scrum é contratado, é necessário que um funcionário mais experiente explique o conteúdo de maneira simples e didática. Demandando tempo do funcionário mais experiente que poderia exercer outras tarefas relacionadas à sua função principal.
 
 ## 💡 Solução  
-Para resolver esse problema, desenvolvemos um **sistema web interativo**, capaz de **apresentar conceitos e fundamentos do Scrum de forma prática, com exemplos, fluxos e simulações**. O sistema permite que os usuários entendam e apliquem o Scrum em cenários reais, promovendo um aprendizado mais eficaz e imersivo.
+Para resolver esse problema, desenvolvemos um **sistema web interativo**, capaz de **apresentar conceitos e fundamentos do Método Scrum de forma prática dinâmica e intuitiva, com exemplos, fluxos, simulações, vídeos intuitivos, trilhas de aprendizagem, uma tabela de avaliação do Dev Team (utilizando o método PACER) e um sistema de avaliação do conhecimento** para ajudar o usuário a assimilar o conteúdo de maneira didática e intuitiva. O sistema permite que os usuários compreendam e apliquem o Scrum em cenários reais e com um conteúdo sólido, promovendo um aprendizado mais eficaz e imersivo.
+
+[**Link do GitHub**](https://github.com/erickhoawata/portifolio-tg)
+
+<details><summary>Aplicação</summary>
+  <p align="center">
+    <br>
+    <img src="https://github.com/user-attachments/assets/0e6d4387-f976-4c3f-8e43-333ae010a3ab" alt="foto">
+  </p>
+</details>
+
 
 ## ⚙️ Tecnologias Utilizadas  
 - **Frontend:** HTML, CSS, Bootstrap  
@@ -56,20 +69,16 @@ Para resolver esse problema, desenvolvemos um **sistema web interativo**, capaz 
 - **Documentação:** GitHub  
 
 ## 👨‍💻 Minhas Contribuições  
-- Participação no **desenvolvimento completo da API** utilizando **Flask** para o backend e **HTML, CSS e Bootstrap** para o frontend.  
-- Implementação de funcionalidades para **apresentação dos conceitos de Scrum** de forma clara e interativa.  
-- Colaboração na **organização do projeto usando Trello** e no design com **Figma** e **Canva**.  
-- Redação e manutenção da **documentação técnica no GitHub** para consulta e estudo.
+Neste projeto atuei como Scrum Master e atuei no desenvolvimento da aplicação web utilizando **HTML, CSS e Bootstrap** para o FrontEnd, resultando em uma aplicação responsível para diversos dispositivos. Fui responsável pela **apresentação dos conceitos scrum** de forma clara a interativa. Além disso, fui responsável pela **organização das tarefas no Trello**, desenvolvimento do **burndown**, design no **Figma** e **Canva** e documentação técnica no **GitHub**.
 
 ## 🔧 Hard Skills  
-- Programação em **Python e Flask**.  
-- Desenvolvimento de interfaces responsivas com **HTML, CSS e Bootstrap**.  
-- Ferramentas de Design: **Figma, Canva**.  
-- Controle de Versionamento com **GitHub**.  
-- Organização e gerenciamento de tarefas com **Trello**.
+- Desenvolvimento de interfaces responsivas com **HTML, CSS e Bootstrap** - Uso com autonomia
+- Ferramentas de Design: **Figma, Canva** - Uso com autonomia
+- Controle de Versionamento com **GitHub**  - Uso com autonomia 
+- Organização e gerenciamento de tarefas com **Trello**  - Uso com autonomia
 
 ## 🤝 Soft Skills  
-- **Trabalho em equipe e colaboração** constante com colegas de diferentes perfis e habilidades.  
-- **Comunicação clara e eficaz** para alinhar objetivos e solucionar problemas.  
-- **Gestão de tempo** e priorização de tarefas com foco em entregas ágeis.  
-- **Adaptabilidade e proatividade** em situações desafiadoras.
+Durante esse projeto apliquei a minha liderança e gerenciamento de tempo/tarefas, ao instruir os membros que ainda não possuiam conhecimento em relação ao desenvolvimento web. Nos reuníamos em sala e auxiliava os membros que possuíam dificuldades e algumas dúvidas. Como resultado, o time de desenvolvimento deve uma grande evolução, graças à dedicação e trabalho em equipe de todos.
+
+Também precisei aplicar a minha comunicação, seja para com os membros, para com os professores na apresentação, graças à esse "desafio", conseguimos entregar um excelente projeto, muito bem estruturado, devido a adaptabilidade e proatividade exercidas ao encontrar desafios e problemas durante a execução do projeto.
+</details>
