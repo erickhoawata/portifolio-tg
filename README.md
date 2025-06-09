@@ -212,7 +212,7 @@ Nesse projeto, atuei como Scrum Master, no qual fui responsável pelo CRUD de or
 Durante esse projeto, apliquei principalmente a minha gestão de pessoas e problemas, gerenciei o tempo e as tarefas de acordo com a disponibilidade de cada integrante do grupo e a sua respectiva rotina, comunicação mais eficiente para comunicar de forma clara e didática as tarefas a serem efetuadas por cada membro da equipe, organização pessoal e do projeto e principalmente adaptabilidade para compreender os requisitos do cliente e desenvolver as tarefas baseadas na conversa com o cliente e o Product Owner. Além da proatividade e trabalho em grupo para estudar bibliotecas e ensinar ou guiar os desenvolvedores FrontEnd a como utilizá-las.
 </details>
 
-<details><summary>📌 Quinta API - C0deMain ( Função: Desenvolvedor Web )</summary>
+<details><summary>📌 Quinta API - C0deMain ( Função: Dev Team)</summary>
 
 ## 💼 Empresa Externa - GSW Software
 
