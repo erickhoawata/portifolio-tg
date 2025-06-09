@@ -123,3 +123,146 @@ Nesse projeto, desenvolvi tarefas do FrontEnd, utilizando o Java Swing, para o d
 ## 🤝 Soft Skills  
 Durante esse projeto apliquei a minha proatividade para estudo do Java Swing, colaboração com os demais integrantes do Frontend, que estavam com algumas dificuldades na utilização da biblioteca gráfica. Motivação para aprender uma ferramenta nova e complexa, "limitada" de se desenvolver, tornou a API e o aprendizado mais desafiadores.
 </details>
+
+<details><summary>📌 Terceira API - C0deMain ( Função: Dev Team )</summary>
+
+## 💼 Empresa Externa - Pro4Tech
+
+- **Professor P2** - Cláudio Etelvino de Lima
+- **Professor M2** - Fernando Massanori Ashikaga
+
+## ❗ Problema  
+A análise de diversos documentos e dados, para mensurar a quantidade de produtos, cálculo de comissões ramificadas em 4 outros tipos de comissão e o ranking dos melhores vendedores do mês, demanda muita atenção, cuidado e tempo, para gerar todos os relatórios e cálculos de forma correta.
+
+## 💡 Solução  
+Para resolver esse problema, desenvolvemos o **Sales Dash**, um **dashboard** que recebe informações de vendas e as apresenta de forma simples e didática, facilitando a visão do gerente. Adicionamos um sistema de upload de planilhas, no qual aplicamos filtros, gráficos, fórmulas, permitindo a análise detalhada e o desempenho de vendas e automática dos dados.
+
+[**Link do GitHub**](https://github.com/C0demain/sales-dash)
+
+<details><summary>Aplicação</summary>
+  <p align="center">
+    <br>
+    <a href="https://drive.google.com/file/d/1b94GKsdwIGHcJ9YA6HmEVndtrlcW9O25/view" target="_blank">
+      Confira o vídeo!
+    </a>
+  </p>
+</details>
+
+## ⚙️ Tecnologias Utilizadas  
+- **Frontend:** TypeScript, React
+- **Backend:** TypeScript, Node JS, PostgreSQL
+- **Ferramentas:** Trello, Figma, Visual Studio Code, Canva
+- **Documentação:** GitHub
+
+## 👨‍💻 Minhas Contribuições  
+Nesse projeto, atuei como Team Dev e fui responsável pelo desenvolvimento da tela de Cadastro, Edição e Exibição dos Clientes, CRUD Completo dos Produtos, Gráficos de Venda e Comissão na Tela Principal do Dashboard (Visão do Cliente), aplicação do Filtro de Data, Menu Lateral e outras melhorias pontuais no UX da aplicação. 
+
+## 🔧 Hard Skills  
+- Desenvolvimento em: **TypeScript** - Uso com autonomia
+- Desenvolvimento em: **React** - Uso com autonomia, porém são necessárias consultas
+- Utilização do: **NodeJS** - Uso com ajuda
+- Ferramentas de Design: **Figma, Canva** - Uso com autonomia
+- Controle de Versionamento com **GitHub**  - Uso com autonomia 
+
+## 🤝 Soft Skills  
+Durante esse projeto apliquei principalmente o meu trabalho em grupo e a minha comunicação, no qual houveram muitas evoluções no desenvolvimento do projeto, aplicação de ideias. Desenvolvi também a minha gestão de tempo e organização, pois em meio da API, consegui uma vaga de empregom no qual tive que conciliar a faculdade, com os meu trabalho e estudos externos. Proatividade no qual busquei mais aprendizado sobre a nova tecnologia utilizada e novas bibliotecas a seram usadas no desenvolvimento do projeto.
+</details>
+
+<details><summary>📌 Quarta API - C0deMain ( Função: Scrum Master )</summary>
+
+## 💼 Empresa Externa - JJM Log
+
+- **Professor P2** - Juliana Forin Pasquini Martinez
+- **Professor M2** - Fabiano Sabha Walczak
+
+## ❗ Problema  
+O gerenciamento de processos de trabalho em uma empresa de logística, é algo muito complexo, pois é necessário uma boa comunicação e uma comunhão entre todos os setores da empresa, na execução de projetos ou atividades mais simples. Itens como análise de dados, fluxo de trabalho, comunicação entre os setores e métricas de desempenho dos setores, são cruciais para o bom funcionamento de uma empresa e por isso não podem ser deixados de lado.
+
+## 💡 Solução  
+Para resolver esse problema, desenvolvemos o **LogFlow**, um sistema que permite o acompanhamento de diversos setores e as suas respectivas tarefas e o status que estão. Desenvolvemos um chat em tempo real para a melhor comunicação dos cooperadores da empresa, um calendário com todos os eventos previamente cadastrados pelo gestor de cada setor, upload de arquivos como comprovantes e olerites, um dashboard com as principais informações, gráficos para facilitar a visualização do desempenho da empresa, portal do funcionário e a roterização das viagens.
+
+[**Link do GitHub**](https://github.com/C0demain/sales-dash)
+
+<details><summary>Aplicação</summary>
+  <p align="center">
+    <br>
+    <a href="https://www.youtube.com/watch?v=D8LDeAe5Wgo" target="_blank">
+      Confira o vídeo!
+    </a>
+  </p>
+</details>
+
+## ⚙️ Tecnologias Utilizadas  
+- **Frontend:** TypeScript, NextJS
+- **Backend:** TypeScript, NodeJS, NestJS
+- **Ferramentas:** Trello, Figma, Visual Studio Code, Canva
+- **Documentação:** GitHub
+
+## 👨‍💻 Minhas Contribuições  
+Nesse projeto, atuei como Scrum Master, no qual fui responsável pelo CRUD de ordens de Serviço, desenvolvimento no Dashboard, CRUD de Veículos. Gerenciamento do time scrum, delegação de tarefas e organização geral do projeto.
+
+## 🔧 Hard Skills  
+- Desenvolvimento em: **TypeScript** - Uso com autonomia
+- Desenvolvimento em: **React** - Uso com autonomia, porém são necessárias consultas
+- Utilização do: **NodeJS** - Uso com ajuda
+- Ferramentas de Design: **Figma, Canva** - Uso com autonomia
+- Controle de Versionamento com **GitHub**  - Uso com autonomia 
+
+## 🤝 Soft Skills  
+Durante esse projeto, apliquei principalmente a minha gestão de pessoas e problemas, gerenciei o tempo e as tarefas de acordo com a disponibilidade de cada integrante do grupo e a sua respectiva rotina, comunicação mais eficiente para comunicar de forma clara e didática as tarefas a serem efetuadas por cada membro da equipe, organização pessoal e do projeto e principalmente adaptabilidade para compreender os requisitos do cliente e desenvolver as tarefas baseadas na conversa com o cliente e o Product Owner. Além da proatividade e trabalho em grupo para estudar bibliotecas e ensinar ou guiar os desenvolvedores FrontEnd a como utilizá-las.
+</details>
+
+<details><summary>📌 Quinta API - C0deMain ( Função: Desenvolvedor Web )</summary>
+
+## 💼 Empresa Externa - GSW Software
+
+- **Professor P2** - Gerson da Penha Neto
+- **Professor M2** - Ronaldo Emerick Moreira
+
+## ❗ Problema  
+Necessidade de um grande número de cálculo reembolsos coorporativos e a aprovação de diversas solicitações que vinham de diversos meios de comunicação, o que acaba tornando o gerenciamento desses reembolsos, ineficiente e mais complexo de ser aprovado e finalizado.
+
+## 💡 Solução  
+Para resolver esse problema, desenvolvemos o **RefundMe**, um sistema que permite a aprovação de solicitações que possuem reembolsos de diversos tipos da empresa. Possibilitando o cooperador anexar arquivos de comprovante de gastos e diante essas solicitações o Gerente possui a escolha de aprová-los ou não. A aplicação também possui um painel de visualização geral para controle de gastos, separados por cada projeto.
+
+A aplicação foi dividida entre:
+Mobile - Visão do Cooperador Comum
+Web - Visão do Administrador
+API - Com Autenticação e Hospedagem em nuvem
+
+[**Link do GitHub**](https://github.com/C0demain/refundme)
+
+<details><summary>Aplicação</summary>
+  <p align="center">
+    <br>
+    <a href="https://drive.google.com/file/d/1M2Z-_GaFNL36fPYcajl-Kc_4Xe1xrJBu/view" target="_blank">
+      Confira o vídeo WEB!
+    </a>
+  </p>
+  <p align="center">
+    <br>
+    <a href="https://drive.google.com/file/d/1HBDjYvhVGboCoM4Exfvte7C8HXG5gqei/view" target="_blank">
+      Confira o vídeo Mobile!
+    </a>
+  </p>
+</details>
+
+## ⚙️ Tecnologias Utilizadas  
+- **Frontend:** TypeScript, React Native, Expo, TailwindCSS
+- **Backend:** TypeScript, NodeJS, NestJS, AWS, Docker, Type ORM, PostgreSQL
+- **Ferramentas:** Trello, Figma, Visual Studio Code, Canva
+- **Documentação:** GitHub
+
+## 👨‍💻 Minhas Contribuições  
+Nesse projeto, atuei como Dev Team, no qual fui responsável pelo CRUD de Usuários, Tela de Cadastro, Desenvolvimento da Tela de Novas Solicitações e outros ajustes na parte Web do projeto.
+Já na aplicação Mobile, fui resposável pelo CRUD de Reembolsos, sistema de upload de novos arquivos e fotos. Auxílio no desenvolvimento do menu de novas solicitações.
+
+## 🔧 Hard Skills  
+- Desenvolvimento em: **TypeScript, Expo, TailwindCSS** - Uso com autonomia
+- Desenvolvimento em: **React Native** - Uso com ajuda
+- Ferramentas de Design: **Figma, Canva** - Uso com autonomia
+- Controle de Versionamento com **GitHub**  - Uso com autonomia 
+
+## 🤝 Soft Skills  
+Durante esse projeto, atuei como Team Dev, no qual pude aplicar o meu trabalho em grupo e a minha comunicação com os demais integrantes do grupo, principalmente com o Scrum Master. Apliquei a minha proatividade ao estudar qual seria a melhor estilização para a aplicação web e conversando com o grupo, optamos por utilizar o TailwindCSS. Apliquei também a minha gestão de tempo e organização, ao conciliar os trabalhos da faculdade, API, estágio e outras atividades externas que eu pratico.
+</details>
