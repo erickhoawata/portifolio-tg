@@ -6,7 +6,7 @@
 </p>
 
 ### 🎓 Histórico Acadêmico
-Meu nome é **Erick Hideki Oyakawa Awata**, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico em Informática realizado pelo Instituto IDEIA. Durante esse curso adquiri conhecimentos em HTML, CSS, Java Script, React Native e MySQL. Com o objetivo de aumentar o meu aprendizado e conseguir maior destaque no mercado de trabalho, em 2023 ingressei na **FATEC-SJC** no curso de **Análise e Desenvolvimeto de Sistemas** e atualmente estou no 5º Semestre.
+Meu nome é **Erick Hideki Oyakawa Awata**, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico em Informática realizado pelo Instituto IDEIA. Durante esse curso adquiri conhecimentos em HTML, CSS, Java Script, React Native e MySQL. Com o objetivo de aumentar o meu aprendizado e conseguir maior destaque no mercado de trabalho, em 2023 ingressei na **FATEC-SJC** no curso de **Análise e Desenvolvimeto de Sistemas** e atualmente estou no 6º Semestre.
 
 Realizei **diversos cursos complementares** que ampliaram meu conhecimento em tecnologias modernas, frameworks e melhores práticas de desenvolvimento de software.
 
@@ -15,7 +15,7 @@ Profissionalmente, em 2021 iniciei a minha carreira como Estagiário de Informá
 
 Atuo na área de tecnologia, com foco no **desenvolvimento de sites** e **suporte técnico**. Possuo experiência no **desenvolvimento de interfaces web**, **User Experience** e otimização de processos utilizando soluções inovadoras.
 
-Desde **Maio de 2022**, atuo como **Desenvolvedor Web na Agência Malvis**, onde desenvolvo soluções personalizadas para clientes, utilizando tecnologias modernas para atender às necessidades de negócios de maneira eficiente. Nessa empresa, aprimoro habilidades em HTML, CSS, UX, JavaScript, FTP, Servidores e Design Gráfico.
+Desde **Maio de 2024**, atuo como **Desenvolvedor Web na Agência Malvis**, onde desenvolvo soluções personalizadas para clientes, utilizando tecnologias modernas para atender às necessidades de negócios de maneira eficiente. Nessa empresa, aprimoro habilidades em HTML, CSS, UX, JavaScript, FTP, Servidores e Design Gráfico.
 
 ---
 
