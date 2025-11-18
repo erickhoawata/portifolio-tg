@@ -127,6 +127,7 @@ Durante esse projeto apliquei a minha proatividade para estudo do Java Swing, co
 <details><summary>📌 Terceira API - C0deMain ( Função: Dev Team )</summary>
 
 ## 💼 Empresa Externa - Pro4Tech
+Projeto desenvolvido com a Pro4Tech, uma empresa de consultoria e desenvolvimento de software.
 
 - **Professor P2** - Cláudio Etelvino de Lima
 - **Professor M2** - Fernando Massanori Ashikaga
@@ -171,6 +172,7 @@ Durante esse projeto apliquei principalmente o meu trabalho em grupo e a minha c
 <details><summary>📌 Quarta API - C0deMain ( Função: Scrum Master )</summary>
 
 ## 💼 Empresa Externa - JJM Log
+Projeto realizado com a JJM Log, empresa especializada em logística e transportes.
 
 - **Professor P2** - Juliana Forin Pasquini Martinez
 - **Professor M2** - Fabiano Sabha Walczak
@@ -213,6 +215,7 @@ Durante esse projeto, apliquei principalmente a minha gestão de pessoas e probl
 </details>
 
 <details><summary>📌 Quinta API - C0deMain ( Função: Dev Team)</summary>
+Projeto desenvolvido com a GSW, empresa especializada em desenvolvimento de software e soluções corporativas.
 
 ## 💼 Empresa Externa - GSW Software
 
@@ -265,4 +268,55 @@ Já na aplicação Mobile, fui resposável pelo CRUD de Reembolsos, sistema de u
 
 ## 🤝 Soft Skills  
 Durante esse projeto, atuei como Team Dev, no qual pude aplicar o meu trabalho em grupo e a minha comunicação com os demais integrantes do grupo, principalmente com o Scrum Master. Apliquei a minha proatividade ao estudar qual seria a melhor estilização para a aplicação web e conversando com o grupo, optamos por utilizar o TailwindCSS. Apliquei também a minha gestão de tempo e organização, ao conciliar os trabalhos da faculdade, API, estágio e outras atividades externas que eu pratico.
+</details>
+
+<details><summary>📌 Sexta API - C0deMain ( Função: Product Owner)</summary>
+Projeto desenvolvido com a Xertica.ai, empresa especializada em desenvolvimento de software e soluções integradas com inteligencia artificial.
+
+## 💼 Empresa Externa - Xertica.ai
+
+- **Professor P2** - José Walmir Gonçalves Duque
+- **Professor M2** - Emanuel Mineda Carneiro
+
+## ❗ Problema  
+Muitas pessoas possuem dificuldade em manter a sua dieta, devido a falta de orientação prática e personalizada que se adeque a realidade do paciente. Não foi encontrada nenhuma ferramenta que entregue um agente que desenvolva uma dieta personalizada e ajustável de acordo com a ingestão de alimentos do paciente, um suporte contínuo e acessível.
+
+## 💡 Solução  
+Para resolver esse problema, desenvolvemos o NutriXpert, um agente de IA capaz de orientar o paciente a seguir uma dieta personalizada de acordo com seus objetivos nutricionais e sua rotina alimentar real. O agente recebe dados provenientes da anamnese, interpreta documentos anexados (como PDFs, cardápios, exames ou relatórios nutricionais) e utiliza esses insumos para gerar respostas inteligentes, fundamentadas e ajustáveis.
+
+O NutriXpert analisa todas as informações em conjunto, cria recomendações nutricionais dinâmicas e atualiza o plano alimentar conforme o paciente registra novas ingestões. Dessa forma, o usuário passa a contar com um acompanhamento contínuo, acessível e extremamente personalizado, sem a necessidade de consultas manuais ou planilhas externas.
+
+[**Link do GitHub**](https://github.com/C0demain/nutriXpert)
+
+<details><summary>Aplicação</summary>
+  <p align="center">
+    <br>
+    <a href="" target="_blank">
+      Confira o vídeo WEB!
+    </a>
+  </p>
+</details>
+
+## ⚙️ Tecnologias Utilizadas  
+- **Frontend:** Vue.js
+- **Backend:** Python, Java
+- **Ferramentas:** PostgreSQL, Chroma DB, Google ADK, Springboot, FastAPI, Langchain
+- **Documentação:** GitHub
+
+## 👨‍💻 Minhas Contribuições  
+Nesse projeto, atuei como Product Owner, no qual fui responsável integralmente por toda a organização funcional e estratégica do produto. Realizei a elaboração completa da documentação da API, incluindo requisitos funcionais, não funcionais, fluxos de interação e diretrizes técnicas. Estruturei e priorizei o backlog, defini épicos, histórias de usuário e critérios de aceite, garantindo clareza e alinhamento para toda a equipe.
+
+Também liderei o diálogo com o cliente, traduzindo suas expectativas em entregas objetivas e viáveis para o time de desenvolvimento. Facilitei as cerimônias ágeis, acompanhei a evolução das sprints, gerenciei impedimentos e assegurei que o produto mantivesse aderência total ao problema central apresentado pela Xertica.ai.
+
+## 🔧 Hard Skills  
+- Desenvolvimento em: **Vue.js** – Uso com autonomia
+- Desenvolvimento em: **Python e Java** – Uso com ajuda
+- Ferramentas de Banco de Dados: **PostgreSQL, ChromaDB** – Uso com autonomia
+- Ferramentas de IA/PLN: **LangChain, Google ADK** – Uso com autonomia
+- Ferramentas de Documentação e Gestão: **GitHub** – Uso com autonomia
+
+## 🤝 Soft Skills  
+Durante esse projeto, atuei como Product Owner, no qual pude aplicar minha comunicação efetiva com o cliente e com a equipe de desenvolvimento, assegurando alinhamento entre requisitos e entregas. Apliquei minha proatividade ao organizar todo o backlog, criar as User Stories e estruturar os critérios de aceite.
+
+Desenvolvi ainda minha gestão de tempo e organização, conciliando a API com outras demandas acadêmicas e profissionais, além de fortalecer minha liderança colaborativa, facilitando a condução das cerimônias e garantindo clareza na execução das sprints.
 </details>
