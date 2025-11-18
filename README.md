@@ -62,13 +62,29 @@ Para resolver esse problema, desenvolvemos um **sistema web interativo**, capaz 
 </details>
   
 ## ⚙️ Tecnologias Utilizadas  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** Python, Flask  
-- **Ferramentas:** Trello, Figma, VS Code, Canva
+- **Frontend:**
+HTML, CSS e Bootstrap – utilizados para desenvolver toda a interface do sistema, criando páginas responsivas, organizadas e intuitivas. Essas tecnologias permitiram estruturar telas de trilhas de aprendizagem, simulações práticas, fluxos visuais, área de vídeos explicativos, além da tabela de avaliação PACER e da interface do teste de conhecimento.
+
+- **Backend:**
+Python – responsável pela camada lógica da aplicação, incluindo processamento dos conteúdos, gerenciamento das avaliações, fluxo do sistema e integração dos módulos educacionais.
+
+  Flask – framework utilizado para construir a API e sustentar toda a comunicação entre as páginas do front end e o servidor, garantindo leveza, performance e organização das rotas da aplicação educacional.
+
+- **Ferramentas:**
+Trello – aplicado para gerenciamento das tarefas, priorização das funcionalidades e acompanhamento do progresso do projeto.
+
+  Figma – utilizado na criação e prototipação das interfaces, garantindo precisão no design antes do desenvolvimento.
+
+  VS Code – ambiente utilizado para desenvolvimento do front end e backend.
+
+  Canva – utilizado como apoio visual na criação de banners, ícones e elementos ilustrativos presentes na plataforma.
+
 - **Documentação:** GitHub  
 
 ## 👨‍💻 Minhas Contribuições  
-Neste projeto atuei como Scrum Master e atuei no desenvolvimento da aplicação web utilizando **HTML, CSS e Bootstrap** para o FrontEnd, resultando em uma aplicação responsível para diversos dispositivos. Fui responsável pela **apresentação dos conceitos scrum** de forma clara a interativa. Além disso, fui responsável pela **organização das tarefas no Trello**, desenvolvimento do **burndown**, design no **Figma** e **Canva** e documentação técnica no **GitHub**.
+Nesse projeto, atuei como Scrum Master e contribuí diretamente para o desenvolvimento da aplicação web, implementando a interface por meio de HTML, CSS e Bootstrap para garantir responsividade, boa usabilidade e adaptação a diferentes dispositivos. Desenvolvi as telas principais da solução, assegurando consistência visual e alinhamento com os requisitos definidos para o produto.
+
+Também fui responsável pela apresentação dos conceitos de Scrum, conduzindo explicações estruturadas e interativas para orientar o time no uso adequado do framework. Além disso, organizei todo o fluxo de tarefas no Trello, elaborei o burndown e apoiei o design da aplicação utilizando Figma e Canva. Mantive ainda a documentação técnica centralizada no GitHub, garantindo rastreabilidade, padronização e transparência em todas as etapas do projeto.
 
 ## 🔧 Hard Skills  
 - Desenvolvimento de interfaces responsivas com **HTML, CSS e Bootstrap** - Uso com autonomia
@@ -105,13 +121,34 @@ Para resolver esse problema, desenvolvemos um **chatbot avançado**, capaz de **
 </details>
 
 ## ⚙️ Tecnologias Utilizadas  
-- **Frontend:** Java Swing
-- **Backend:** Java, MySQL, Langchain4, Gradle
-- **Ferramentas:** Trello, Figma, Eclipse, Canva
+- **Frontend:**
+Java Swing – utilizado para desenvolver a interface visual do chatbot, criando telas de interação, exibição das respostas processadas pela IA e os componentes necessários para envio dos documentos que seriam analisados pelo sistema. 
+
+- **Backend:**
+Java – responsável pela lógica central do sistema, processamento das requisições, integração com a IA e execução das regras que orientam a análise dos currículos.
+
+  MySQL – utilizado como banco de dados relacional para armazenar informações estruturadas, registros de análise, dados dos documentos e histórico de interações.
+
+  LangChain4 – framework aplicado para leitura, interpretação e extração de informações dos currículos enviados, permitindo a compreensão textual e a busca de dados relevantes dentro dos documentos.
+
+  Gradle – utilizado como ferramenta de automação e gerenciamento de dependências, garantindo padronização no build e no ambiente de desenvolvimento.
+
+- **Ferramentas:**
+
+  Trello – para organização das atividades e acompanhamento do fluxo de desenvolvimento.
+
+  Figma – utilizado na prototipação das telas e definição dos elementos visuais.
+
+  Eclipse – ambiente principal de desenvolvimento do sistema.
+
+  Canva – aplicado para apoio visual e criação de elementos gráficos complementares.
+
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, desenvolvi tarefas do FrontEnd, utilizando o Java Swing, para o desenvolvimento da parte visual da aplicação, criando a **Tela de Cadastro e Login dos Usuários** e o atuei no desenvolvimento da tela do **Chatbot**. Além disso, estudei e analizei como melhorar o retorno das respostas da IA, integrando a ferramenta ao Hugging Face.
+Nesse projeto, atuei como desenvolvedor responsável pela implementação das interfaces visuais da aplicação, utilizando Java Swing para estruturar toda a camada de apresentação. Desenvolvi integralmente a Tela de Cadastro e Login dos Usuários e atuei na construção da interface do Chatbot, garantindo uma navegação consistente, funcional e alinhada às necessidades da solução. Busquei aprimorar a experiência visual e operacional da aplicação, mantendo padronização e coerência entre as telas.
+
+Além das entregas de interface, também conduzi estudos técnicos para elevar a qualidade das respostas da IA integrada ao sistema. Analisei alternativas de melhoria, validei métodos de processamento e explorei a utilização do Langchain4 em conjunto com modelos hospedados no Hugging Face, buscando otimizar relevância, velocidade e precisão das respostas. No backend, utilizei Java, MySQL e o ambiente configurado em Gradle, assegurando integração fluida entre lógica, dados e o módulo conversacional da aplicação.
 
 ## 🔧 Hard Skills  
 - Desenvolvimento da interface visual: **Java Swing** - Uso com autonomia
@@ -150,13 +187,29 @@ Para resolver esse problema, desenvolvemos o **Sales Dash**, um **dashboard** qu
 </details>
 
 ## ⚙️ Tecnologias Utilizadas  
-- **Frontend:** TypeScript, React
-- **Backend:** TypeScript, Node JS, PostgreSQL
-- **Ferramentas:** Trello, Figma, Visual Studio Code, Canva
+- **Frontend:**
+TypeScript e React – utilizados para desenvolver o front end do dashboard, criando interfaces dinâmicas, responsivas e voltadas para visualização de dados.
+
+- **Backend:**
+TypeScript e NodeJS – responsáveis por toda a lógica de negócio do processamento de vendas, cálculo de comissões e organização dos dados recebidos.
+
+  PostgreSQL – utilizado como banco de dados relacional para armazenar informações de vendas, comissões, ranking dos vendedores, registros históricos e dados tratados, garantindo consistência, segurança e performance nas consultas.
+
+- **Ferramentas:**
+Trello – para organização das tarefas, controle das etapas e acompanhamento do progresso do time.
+
+  Figma – para prototipação das telas e definição precisa das interfaces antes do desenvolvimento.
+
+  Visual Studio Code – ambiente utilizado para desenvolvimento das funcionalidades de frontend e backend.
+
+  Canva – para criação de elementos visuais e recursos gráficos complementares ao projeto.
+
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, atuei como Team Dev e fui responsável pelo desenvolvimento da tela de Cadastro, Edição e Exibição dos Clientes, CRUD Completo dos Produtos, Gráficos de Venda e Comissão na Tela Principal do Dashboard (Visão do Cliente), aplicação do Filtro de Data, Menu Lateral e outras melhorias pontuais no UX da aplicação. 
+Nesse projeto, atuei como Team Dev, no qual fui responsável pela implementação das principais interfaces operacionais do sistema. Desenvolvi integralmente as telas de Cadastro, Edição e Exibição de Clientes, realizei o CRUD completo dos Produtos e implementei os gráficos de Vendas e Comissão na tela principal do Dashboard, garantindo precisão visual e experiência consistente para o usuário. Também estruturei o filtro de data, o menu lateral e realizei melhorias pontuais de UX que elevaram a navegabilidade e a fluidez da aplicação.
+
+Utilizei TypeScript e React no frontend para construir componentes dinâmicos, performáticos e alinhados às boas práticas de interface. No backend, apliquei TypeScript, Node.js e PostgreSQL para estruturar a lógica de dados, integrações e persistência das informações.
 
 ## 🔧 Hard Skills  
 - Desenvolvimento em: **TypeScript** - Uso com autonomia
@@ -195,13 +248,29 @@ Para resolver esse problema, desenvolvemos o **LogFlow**, um sistema que permite
 </details>
 
 ## ⚙️ Tecnologias Utilizadas  
-- **Frontend:** TypeScript, NextJS
-- **Backend:** TypeScript, NodeJS, NestJS
-- **Ferramentas:** Trello, Figma, Visual Studio Code, Canva
+- **Frontend:**
+TypeScript e NextJS – utilizados para desenvolver o front end da plataforma web, permitindo a criação das interfaces de visualização dos setores, dashboards de desempenho, calendário de eventos, portal do funcionário e telas de comunicação.
+
+- **Backend:**
+TypeScript e NodeJS – responsáveis por sustentar a lógica de negócio do sistema, incluindo gerenciamento de tarefas, eventos, mensagens do chat e controle dos setores.
+
+  NestJS – framework utilizado para estruturar a API, garantindo organização modular, segurança, escalabilidade e integração eficiente entre os módulos do sistema, como chat em tempo real, roteirização de viagens e upload de arquivos.
+
+- **Ferramentas:**
+Trello – utilizado para gestão das tarefas e acompanhamento das entregas do time.
+
+  Figma – responsável pelos protótipos das telas e pela definição das interfaces antes do desenvolvimento.
+
+  Visual Studio Code – ambiente de desenvolvimento das funcionalidades web e backend.
+
+  Canva – apoio visual e criação de elementos gráficos necessários no projeto.
+
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, atuei como Scrum Master, no qual fui responsável pelo CRUD de ordens de Serviço, desenvolvimento no Dashboard, CRUD de Veículos. Gerenciamento do time scrum, delegação de tarefas e organização geral do projeto.
+Nesse projeto, atuei como Scrum Master, no qual fui responsável por toda a coordenação operacional e pela sustentação das entregas técnicas da equipe. Desenvolvi integralmente o CRUD de Ordens de Serviço, implementei as funcionalidades centrais do Dashboard e realizei o CRUD de Veículos, garantindo precisão, rastreabilidade e total aderência aos requisitos definidos para a solução. Também conduzi melhorias diretas no fluxo de trabalho, assegurando consistência e alinhamento entre desenvolvimento e necessidades do produto.
+
+Liderei a organização do time Scrum, estruturando a delegação de tarefas, facilitando todas as cerimônias ágeis, monitorando impedimentos e garantindo um fluxo contínuo de entrega. Atuei de forma estratégica na organização geral do projeto, mantendo o time focado nos objetivos essenciais e assegurando a execução conforme as melhores práticas de agilidade. Utilizei TypeScript e NextJS no frontend para compor interfaces robustas e dinâmicas, enquanto no backend empreguei TypeScript, NodeJS e NestJS para sustentar a arquitetura da solução.
 
 ## 🔧 Hard Skills  
 - Desenvolvimento em: **TypeScript** - Uso com autonomia
@@ -215,9 +284,9 @@ Durante esse projeto, apliquei principalmente a minha gestão de pessoas e probl
 </details>
 
 <details><summary>📌 Quinta API - C0deMain ( Função: Dev Team)</summary>
-Projeto desenvolvido com a GSW, empresa especializada em desenvolvimento de software e soluções corporativas.
 
 ## 💼 Empresa Externa - GSW Software
+Projeto desenvolvido com a GSW, empresa especializada em desenvolvimento de software e soluções corporativas.
 
 - **Professor P2** - Gerson da Penha Neto
 - **Professor M2** - Ronaldo Emerick Moreira
@@ -251,14 +320,37 @@ API - Com Autenticação e Hospedagem em nuvem
 </details>
 
 ## ⚙️ Tecnologias Utilizadas  
-- **Frontend:** TypeScript, React Native, Expo, TailwindCSS
-- **Backend:** TypeScript, NodeJS, NestJS, AWS, Docker, Type ORM, PostgreSQL
-- **Ferramentas:** Trello, Figma, Visual Studio Code, Canva
+- **Frontend:**
+TypeScript, React Native, Expo e TailwindCSS – utilizados para desenvolver a interface mobile do cooperador, criando telas responsivas, interativas, formulários de solicitação e o fluxo completo de upload de comprovantes.
+
+- **Backend:**
+TypeScript e NodeJS – responsáveis pela lógica principal da aplicação e pelo processamento das solicitações.
+
+  NestJS – framework utilizado para estruturar a API com organização modular, segurança e escalabilidade.
+
+  AWS – utilizada para hospedagem e infraestrutura em nuvem, garantindo disponibilidade e performance.
+
+  Docker – aplicado para containerização do ambiente, padronizando a execução do backend.
+
+  TypeORM – utilizado para mapear e gerenciar as entidades de reembolso, usuários, projetos e solicitações.
+
+  PostgreSQL – banco de dados relacional utilizado para armazenar informações das solicitações, usuários, comprovantes e registros financeiros.
+
+- **Ferramentas:**
+Trello – gerenciamento de tarefas e acompanhamento do fluxo de desenvolvimento.
+
+  Figma – protótipos das interfaces mobile e web.
+
+  Visual Studio Code – ambiente de desenvolvimento.
+
+  Canva – apoio visual e elementos gráficos.
+
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, atuei como Dev Team, no qual fui responsável pelo CRUD de Usuários, Tela de Cadastro, Desenvolvimento da Tela de Novas Solicitações e outros ajustes na parte Web do projeto.
-Já na aplicação Mobile, fui resposável pelo CRUD de Reembolsos, sistema de upload de novos arquivos e fotos. Auxílio no desenvolvimento do menu de novas solicitações.
+Nesse projeto, atuei como Dev Team e fui responsável pela implementação de funcionalidades essenciais tanto na aplicação web quanto no aplicativo mobile. No ambiente web, desenvolvi o CRUD de Usuários, a Tela de Cadastro e a Tela de Novas Solicitações, além de realizar ajustes pontuais que garantiram maior estabilidade, coerência visual e fluidez no uso da plataforma. Essas entregas asseguraram uma base sólida para o fluxo operacional e para a gestão dos dados do sistema.
+
+Na aplicação mobile, utilizei TypeScript, React Native, Expo e TailwindCSS para desenvolver o CRUD de Reembolsos, incluindo o sistema de upload de arquivos, fotos e comprovantes, garantindo praticidade e precisão no registro das solicitações. Também contribuí na construção do menu de novas solicitações e demais recursos que aprimoraram a experiência do usuário. No backend, trabalhei com TypeScript, NodeJS, NestJS, AWS, Docker, TypeORM e PostgreSQL, sustentando a integração entre as duas plataformas e assegurando consistência, segurança e desempenho em todas as operações.
 
 ## 🔧 Hard Skills  
 - Desenvolvimento em: **TypeScript, Expo, TailwindCSS** - Uso com autonomia
@@ -271,9 +363,9 @@ Durante esse projeto, atuei como Team Dev, no qual pude aplicar o meu trabalho e
 </details>
 
 <details><summary>📌 Sexta API - C0deMain ( Função: Product Owner)</summary>
-Projeto desenvolvido com a Xertica.ai, empresa especializada em desenvolvimento de software e soluções integradas com inteligencia artificial.
 
 ## 💼 Empresa Externa - Xertica.ai
+Projeto desenvolvido com a Xertica.ai, empresa especializada em desenvolvimento de software e soluções integradas com inteligencia artificial.
 
 - **Professor P2** - José Walmir Gonçalves Duque
 - **Professor M2** - Emanuel Mineda Carneiro
@@ -298,15 +390,33 @@ O NutriXpert analisa todas as informações em conjunto, cria recomendações nu
 </details>
 
 ## ⚙️ Tecnologias Utilizadas  
-- **Frontend:** Vue.js
-- **Backend:** Python, Java
-- **Ferramentas:** PostgreSQL, Chroma DB, Google ADK, Springboot, FastAPI, Langchain
+- **Frontend:**
+Vue.js - framework utilizado para desenvolver o front end, desenvolvemos a interface, telas interativas, formulários e dashboards de progresso.
+
+- **Backend:**
+Python - utilizado para criar o Agent de IA
+
+  Java - utilizado para o backend principal do sistema
+
+- **Ferramentas:**
+PostgreSQL - banco de dados principal
+
+  Chroma DB - banco de dados vetorial
+
+  Google ADK - ferramenta para criar agentes
+
+  Springboot - framework utilizado juntamente com Java para criar a API
+
+  FastAPI - framework utilziado para criar a API do agente de forma rápida
+
+  Langchain - framework que efetua a leitura, transforma os embeddings, busca por similaridade e RAG
+
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, atuei como Product Owner, no qual fui responsável integralmente por toda a organização funcional e estratégica do produto. Realizei a elaboração completa da documentação da API, incluindo requisitos funcionais, não funcionais, fluxos de interação e diretrizes técnicas. Estruturei e priorizei o backlog, defini épicos, histórias de usuário e critérios de aceite, garantindo clareza e alinhamento para toda a equipe.
+Nesse projeto, atuei como Product Owner, no qual fui responsável integralmente pela organização funcional e estratégica do produto. Elaborei toda a documentação da API, estruturando requisitos funcionais e não funcionais, fluxos de interação e diretrizes técnicas que serviram de base para o desenvolvimento. Priorizei o backlog, defini épicos, histórias de usuário e critérios de aceite, garantindo alinhamento entre expectativas do cliente e entregas do time, mantendo clareza e previsibilidade em todas as etapas do ciclo.
 
-Também liderei o diálogo com o cliente, traduzindo suas expectativas em entregas objetivas e viáveis para o time de desenvolvimento. Facilitei as cerimônias ágeis, acompanhei a evolução das sprints, gerenciei impedimentos e assegurei que o produto mantivesse aderência total ao problema central apresentado pela Xertica.ai.
+Também conduzi o relacionamento direto com o cliente, convertendo necessidades complexas em demandas objetivas e viáveis para a equipe de engenharia. Facilitei as cerimônias ágeis, acompanhei o progresso das sprints, gerenciei impedimentos e assegurei que o produto permanecesse totalmente aderente ao problema central apresentado. A infraestrutura contou com PostgreSQL, ChromaDB, Spring Boot, FastAPI, Google ADK e LangChain, e toda a documentação e versionamento foram centralizados no GitHub, garantindo rastreabilidade e governança técnica durante todo o projeto.
 
 ## 🔧 Hard Skills  
 - Desenvolvimento em: **Vue.js** – Uso com autonomia
