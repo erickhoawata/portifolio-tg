@@ -6,12 +6,12 @@
 </p>
 
 ### 🎓 Histórico Acadêmico
-Meu nome é **Erick Hideki Oyakawa Awata**, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico em Informática realizado pelo Instituto IDEIA. Durante esse curso adquiri conhecimentos em HTML, CSS, Java Script, React Native e MySQL. Com o objetivo de aumentar o meu aprendizado e conseguir maior destaque no mercado de trabalho, em 2023 ingressei na **FATEC-SJC** no curso de **Análise e Desenvolvimeto de Sistemas** e atualmente estou no 6º Semestre.
+Meu nome é **Erick Hideki Oyakawa Awata**, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico em Informática realizado no Instituto IDEIA. Durante esse curso adquiri conhecimentos em HTML, CSS, Java Script, React Native e MySQL. Com o objetivo de aumentar o meu aprendizado e conseguir maior destaque no mercado de trabalho, em 2023 ingressei na **FATEC-SJC**, no curso de **Análise e Desenvolvimeto de Sistemas** e atualmente estou no 6º Semestre.
 
 Realizei **diversos cursos complementares** que ampliaram meu conhecimento em tecnologias modernas, frameworks e melhores práticas de desenvolvimento de software.
 
 ### 💼 Histórico Profissional
-Profissionalmente, em 2021 iniciei a minha carreira como Estagiário de Informática, na **Escola Nagaoka Artes Marciais**, no qual era responsável pelo desenvolvimento de planilhas, atuava como social midia e na área de design da empresa, no qual trabalhei até 2022.
+Em 2021 comecei profissionalmente, a minha carreira como Estagiário de Informática, na **Escola Nagaoka Artes Marciais**, onde era responsável pelo desenvolvimento de planilhas, atuava como social midia e na área de design da empresa, no qual trabalhei até 2022.
 
 Atuo na área de tecnologia, com foco no **desenvolvimento de sites** e **suporte técnico**. Possuo experiência no **desenvolvimento de interfaces web**, **User Experience** e otimização de processos utilizando soluções inovadoras.
 
@@ -68,14 +68,14 @@ HTML, CSS e Bootstrap – utilizados para desenvolver toda a interface do sistem
 - **Backend:**
 Python – responsável pela camada lógica da aplicação, incluindo processamento dos conteúdos, gerenciamento das avaliações, fluxo do sistema e integração dos módulos educacionais.
 
-  Flask – framework utilizado para construir a API e sustentar toda a comunicação entre as páginas do front end e o servidor, garantindo leveza, performance e organização das rotas da aplicação educacional.
+  Flask – framework utilizado para construir a API e sustentar toda a comunicação entre as páginas do frontend e o servidor, garantindo leveza, performance e organização das rotas da aplicação educacional.
 
 - **Ferramentas:**
 Trello – aplicado para gerenciamento das tarefas, priorização das funcionalidades e acompanhamento do progresso do projeto.
 
   Figma – utilizado na criação e prototipação das interfaces, garantindo precisão no design antes do desenvolvimento.
 
-  VS Code – ambiente utilizado para desenvolvimento do front end e backend.
+  VS Code – ambiente utilizado para desenvolvimento do frontend e backend.
 
   Canva – utilizado como apoio visual na criação de banners, ícones e elementos ilustrativos presentes na plataforma.
 
@@ -93,9 +93,9 @@ Também fui responsável pela apresentação dos conceitos de Scrum, conduzindo 
 - Organização e gerenciamento de tarefas com **Trello**  - Uso com autonomia
 
 ## 🤝 Soft Skills  
-Durante esse projeto apliquei a minha liderança e gerenciamento de tempo/tarefas, ao instruir os membros que ainda não possuiam conhecimento em relação ao desenvolvimento web. Nos reuníamos em sala e auxiliava os membros que possuíam dificuldades e algumas dúvidas. Como resultado, o time de desenvolvimento deve uma grande evolução, graças à dedicação e trabalho em equipe de todos.
+Durante esse projeto, apliquei a minha liderança e gerenciamento de tempo/tarefas, ao instruir os membros que ainda não possuiam conhecimento em relação ao desenvolvimento web. Nos reuníamos em sala e auxiliava os membros que possuíam dificuldades e algumas dúvidas. Como resultado, o time de desenvolvimento teve uma grande evolução, graças à dedicação e trabalho em equipe de todos.
 
-Também precisei aplicar a minha comunicação, seja para com os membros, para com os professores na apresentação, graças à esse "desafio", conseguimos entregar um excelente projeto, muito bem estruturado, devido a adaptabilidade e proatividade exercidas ao encontrar desafios e problemas durante a execução do projeto.
+Também foi preciso aplicar a minha comunicação, seja para com os membros ou para com os professores na apresentação, graças à esse "desafio", conseguimos entregar um excelente projeto, muito bem estruturado, devido a adaptabilidade e proatividade exercidas ao encontrar desafios e problemas durante a execução do projeto.
 </details>
 
 <details><summary>📌 Segunda API - C0deMain ( Função: Dev Team )</summary>
@@ -158,7 +158,7 @@ Além das entregas de interface, também conduzi estudos técnicos para elevar a
 - Controle de Versionamento com **GitHub**  - Uso com autonomia 
 
 ## 🤝 Soft Skills  
-Durante esse projeto apliquei a minha proatividade para estudo do Java Swing, colaboração com os demais integrantes do Frontend, que estavam com algumas dificuldades na utilização da biblioteca gráfica. Motivação para aprender uma ferramenta nova e complexa, "limitada" de se desenvolver, tornou a API e o aprendizado mais desafiadores.
+Durante esse projeto apliquei, a minha proatividade para estudo do Java Swing, colaboração com os demais integrantes do Frontend, que estavam com algumas dificuldades na utilização da biblioteca gráfica. Motivação para aprender uma ferramenta nova e complexa, "limitada" de se desenvolver, tornou a API e o aprendizado mais desafiadores.
 </details>
 
 <details><summary>📌 Terceira API - C0deMain ( Função: Dev Team )</summary>
@@ -188,7 +188,7 @@ Para resolver esse problema, desenvolvemos o **Sales Dash**, um **dashboard** qu
 
 ## ⚙️ Tecnologias Utilizadas  
 - **Frontend:**
-TypeScript e React – utilizados para desenvolver o front end do dashboard, criando interfaces dinâmicas, responsivas e voltadas para visualização de dados.
+TypeScript e React – utilizados para desenvolver o frontend do dashboard, criando interfaces dinâmicas, responsivas e voltadas para visualização de dados.
 
 - **Backend:**
 TypeScript e NodeJS – responsáveis por toda a lógica de negócio do processamento de vendas, cálculo de comissões e organização dos dados recebidos.
@@ -219,7 +219,7 @@ Utilizei TypeScript e React no frontend para construir componentes dinâmicos, p
 - Controle de Versionamento com **GitHub**  - Uso com autonomia 
 
 ## 🤝 Soft Skills  
-Durante esse projeto apliquei principalmente o meu trabalho em grupo e a minha comunicação, no qual houveram muitas evoluções no desenvolvimento do projeto, aplicação de ideias. Desenvolvi também a minha gestão de tempo e organização, pois em meio da API, consegui uma vaga de empregom no qual tive que conciliar a faculdade, com os meu trabalho e estudos externos. Proatividade no qual busquei mais aprendizado sobre a nova tecnologia utilizada e novas bibliotecas a seram usadas no desenvolvimento do projeto.
+Durante esse projeto, apliquei principalmente o meu trabalho em grupo e a minha comunicação, no qual houveram muitas evoluções no desenvolvimento do projeto, aplicação de ideias. Desenvolvi também a minha gestão de tempo e organização, pois por meio da API, consegui uma vaga de empregom no qual tive que conciliar a faculdade, com os meu trabalho e estudos externos. Proatividade no qual busquei mais aprendizado sobre a nova tecnologia utilizada e novas bibliotecas a seram usadas no desenvolvimento do projeto.
 </details>
 
 <details><summary>📌 Quarta API - C0deMain ( Função: Scrum Master )</summary>
@@ -249,7 +249,7 @@ Para resolver esse problema, desenvolvemos o **LogFlow**, um sistema que permite
 
 ## ⚙️ Tecnologias Utilizadas  
 - **Frontend:**
-TypeScript e NextJS – utilizados para desenvolver o front end da plataforma web, permitindo a criação das interfaces de visualização dos setores, dashboards de desempenho, calendário de eventos, portal do funcionário e telas de comunicação.
+TypeScript e NextJS – utilizados para desenvolver o frontend da plataforma web, permitindo a criação das interfaces de visualização dos setores, dashboards de desempenho, calendário de eventos, portal do funcionário e telas de comunicação.
 
 - **Backend:**
 TypeScript e NodeJS – responsáveis por sustentar a lógica de negócio do sistema, incluindo gerenciamento de tarefas, eventos, mensagens do chat e controle dos setores.
@@ -428,5 +428,5 @@ Também conduzi o relacionamento direto com o cliente, convertendo necessidades 
 ## 🤝 Soft Skills  
 Durante esse projeto, atuei como Product Owner, no qual pude aplicar minha comunicação efetiva com o cliente e com a equipe de desenvolvimento, assegurando alinhamento entre requisitos e entregas. Apliquei minha proatividade ao organizar todo o backlog, criar as User Stories e estruturar os critérios de aceite.
 
-Desenvolvi ainda minha gestão de tempo e organização, conciliando a API com outras demandas acadêmicas e profissionais, além de fortalecer minha liderança colaborativa, facilitando a condução das cerimônias e garantindo clareza na execução das sprints.
+Desenvolvi, ainda, minha gestão de tempo e organização, conciliando a API com outras demandas acadêmicas e profissionais, além de fortalecer minha liderança colaborativa, facilitando a condução das cerimônias e garantindo clareza na execução das sprints.
 </details>
