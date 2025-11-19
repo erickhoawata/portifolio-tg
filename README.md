@@ -236,7 +236,7 @@ O gerenciamento de processos de trabalho em uma empresa de logística, é algo m
 ## 💡 Solução  
 Para resolver esse problema, desenvolvemos o **LogFlow**, um sistema que permite o acompanhamento de diversos setores e as suas respectivas tarefas e o status que estão. Desenvolvemos um chat em tempo real para a melhor comunicação dos cooperadores da empresa, um calendário com todos os eventos previamente cadastrados pelo gestor de cada setor, upload de arquivos como comprovantes e olerites, um dashboard com as principais informações, gráficos para facilitar a visualização do desempenho da empresa, portal do funcionário e a roterização das viagens.
 
-[**Link do GitHub**](https://github.com/C0demain/sales-dash)
+[**Link do GitHub**](https://github.com/C0demain/logflow)
 
 <details><summary>Aplicação</summary>
   <p align="center">
