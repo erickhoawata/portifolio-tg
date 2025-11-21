@@ -173,7 +173,7 @@ Projeto desenvolvido com a Pro4Tech, uma empresa de consultoria e desenvolviment
 A análise de diversos documentos e dados, para mensurar a quantidade de produtos, cálculo de comissões ramificadas em 4 outros tipos de comissão e o ranking dos melhores vendedores do mês, demanda muita atenção, cuidado e tempo, para gerar todos os relatórios e cálculos de forma correta.
 
 ## 💡 Solução  
-Para resolver esse problema, desenvolvemos o **Sales Dash**, um **dashboard** que recebe informações de vendas e as apresenta de forma simples e didática, facilitando a visão do gerente. Adicionamos um sistema de upload de planilhas, no qual aplicamos filtros, gráficos, fórmulas, permitindo a análise detalhada e o desempenho de vendas e automática dos dados.
+Para resolver esse problema, desenvolvemos o **Sales Dash**, um **dashboard** que recebe informações de vendas e as apresenta de forma simples e didática, facilitando a visão do gerente. Adicionamos um sistema de upload de planilhas, aplicamos filtros, gráficos, fórmulas, permitindo a análise detalhada e o desempenho de vendas e automática dos dados.
 
 [**Link do GitHub**](https://github.com/C0demain/sales-dash)
 
@@ -207,7 +207,7 @@ Trello – para organização das tarefas, controle das etapas e acompanhamento 
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, atuei como Team Dev, no qual fui responsável pela implementação das principais interfaces operacionais do sistema. Desenvolvi integralmente as telas de Cadastro, Edição e Exibição de Clientes, realizei o CRUD completo dos Produtos e implementei os gráficos de Vendas e Comissão na tela principal do Dashboard, garantindo precisão visual e experiência consistente para o usuário. Também estruturei o filtro de data, o menu lateral e realizei melhorias pontuais de UX que elevaram a navegabilidade e a fluidez da aplicação.
+Nesse projeto, atuei como Team Dev, e, nesse fui responsável pela implementação das principais interfaces operacionais do sistema. Desenvolvi integralmente as telas de Cadastro, Edição e Exibição de Clientes, realizei o CRUD completo dos Produtos e implementei os gráficos de Vendas e Comissão na tela principal do Dashboard, garantindo precisão visual e experiência consistente para o usuário. Também estruturei o filtro de data, o menu lateral e realizei melhorias pontuais de UX que elevaram a navegabilidade e a fluidez da aplicação.
 
 Utilizei TypeScript e React no frontend para construir componentes dinâmicos, performáticos e alinhados às boas práticas de interface. No backend, apliquei TypeScript, Node.js e PostgreSQL para estruturar a lógica de dados, integrações e persistência das informações.
 
@@ -219,7 +219,7 @@ Utilizei TypeScript e React no frontend para construir componentes dinâmicos, p
 - Controle de Versionamento com **GitHub**  - Uso com autonomia 
 
 ## 🤝 Soft Skills  
-Durante esse projeto, apliquei principalmente o meu trabalho em grupo e a minha comunicação, no qual houveram muitas evoluções no desenvolvimento do projeto, aplicação de ideias. Desenvolvi também a minha gestão de tempo e organização, pois por meio da API, consegui uma vaga de empregom no qual tive que conciliar a faculdade, com os meu trabalho e estudos externos. Proatividade no qual busquei mais aprendizado sobre a nova tecnologia utilizada e novas bibliotecas a seram usadas no desenvolvimento do projeto.
+Durante esse projeto, apliquei principalmente o meu trabalho em grupo e a minha comunicação, que resultaram em muitas evoluções no desenvolvimento do projeto, aplicação de ideias. Desenvolvi também a minha gestão de tempo e organização, pois por meio da API, consegui uma vaga de emprego e tive que conciliar a faculdade, com os meu trabalho e estudos externos. Proatividade, pois, busquei mais aprendizado sobre a nova tecnologia utilizada e novas bibliotecas a seram usadas no desenvolvimento do projeto.
 </details>
 
 <details><summary>📌 Quarta API - C0deMain ( Função: Scrum Master )</summary>
@@ -268,7 +268,7 @@ Trello – utilizado para gestão das tarefas e acompanhamento das entregas do t
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, atuei como Scrum Master, no qual fui responsável por toda a coordenação operacional e pela sustentação das entregas técnicas da equipe. Desenvolvi integralmente o CRUD de Ordens de Serviço, implementei as funcionalidades centrais do Dashboard e realizei o CRUD de Veículos, garantindo precisão, rastreabilidade e total aderência aos requisitos definidos para a solução. Também conduzi melhorias diretas no fluxo de trabalho, assegurando consistência e alinhamento entre desenvolvimento e necessidades do produto.
+Nesse projeto, atuei como Scrum Master, e, nesse papel fui responsável por toda a coordenação operacional e pela sustentação das entregas técnicas da equipe. Desenvolvi integralmente o CRUD de Ordens de Serviço, implementei as funcionalidades centrais do Dashboard e realizei o CRUD de Veículos, garantindo precisão, rastreabilidade e total aderência aos requisitos definidos para a solução. Também conduzi melhorias diretas no fluxo de trabalho, assegurando consistência e alinhamento entre desenvolvimento e necessidades do produto.
 
 Liderei a organização do time Scrum, estruturando a delegação de tarefas, facilitando todas as cerimônias ágeis, monitorando impedimentos e garantindo um fluxo contínuo de entrega. Atuei de forma estratégica na organização geral do projeto, mantendo o time focado nos objetivos essenciais e assegurando a execução conforme as melhores práticas de agilidade. Utilizei TypeScript e NextJS no frontend para compor interfaces robustas e dinâmicas, enquanto no backend empreguei TypeScript, NodeJS e NestJS para sustentar a arquitetura da solução.
 
@@ -359,7 +359,7 @@ Na aplicação mobile, utilizei TypeScript, React Native, Expo e TailwindCSS par
 - Controle de Versionamento com **GitHub**  - Uso com autonomia 
 
 ## 🤝 Soft Skills  
-Durante esse projeto, atuei como Team Dev, no qual pude aplicar o meu trabalho em grupo e a minha comunicação com os demais integrantes do grupo, principalmente com o Scrum Master. Apliquei a minha proatividade ao estudar qual seria a melhor estilização para a aplicação web e conversando com o grupo, optamos por utilizar o TailwindCSS. Apliquei também a minha gestão de tempo e organização, ao conciliar os trabalhos da faculdade, API, estágio e outras atividades externas que eu pratico.
+Durante esse projeto, atuei como Team Dev, e, nesse papel, pude aplicar o meu trabalho em grupo e a minha comunicação com os demais integrantes do grupo, principalmente com o Scrum Master. Apliquei a minha proatividade ao estudar qual seria a melhor estilização para a aplicação web e conversando com o grupo, optamos por utilizar o TailwindCSS. Apliquei também a minha gestão de tempo e organização, ao conciliar os trabalhos da faculdade, API, estágio e outras atividades externas que eu pratico.
 </details>
 
 <details><summary>📌 Sexta API - C0deMain ( Função: Product Owner)</summary>
@@ -414,7 +414,7 @@ PostgreSQL - banco de dados principal
 - **Documentação:** GitHub
 
 ## 👨‍💻 Minhas Contribuições  
-Nesse projeto, atuei como Product Owner, no qual fui responsável integralmente pela organização funcional e estratégica do produto. Elaborei toda a documentação da API, estruturando requisitos funcionais e não funcionais, fluxos de interação e diretrizes técnicas que serviram de base para o desenvolvimento. Priorizei o backlog, defini épicos, histórias de usuário e critérios de aceite, garantindo alinhamento entre expectativas do cliente e entregas do time, mantendo clareza e previsibilidade em todas as etapas do ciclo.
+Nesse projeto, atuei como Product Owner, e, nesse papel fui responsável integralmente pela organização funcional e estratégica do produto. Elaborei toda a documentação da API, estruturando requisitos funcionais e não funcionais, fluxos de interação e diretrizes técnicas que serviram de base para o desenvolvimento. Priorizei o backlog, defini épicos, histórias de usuário e critérios de aceite, garantindo alinhamento entre expectativas do cliente e entregas do time, mantendo clareza e previsibilidade em todas as etapas do ciclo.
 
 Também conduzi o relacionamento direto com o cliente, convertendo necessidades complexas em demandas objetivas e viáveis para a equipe de engenharia. Facilitei as cerimônias ágeis, acompanhei o progresso das sprints, gerenciei impedimentos e assegurei que o produto permanecesse totalmente aderente ao problema central apresentado. A infraestrutura contou com PostgreSQL, ChromaDB, Spring Boot, FastAPI, Google ADK e LangChain, e toda a documentação e versionamento foram centralizados no GitHub, garantindo rastreabilidade e governança técnica durante todo o projeto.
 
@@ -426,7 +426,9 @@ Também conduzi o relacionamento direto com o cliente, convertendo necessidades 
 - Ferramentas de Documentação e Gestão: **GitHub** – Uso com autonomia
 
 ## 🤝 Soft Skills  
-Durante esse projeto, atuei como Product Owner, no qual pude aplicar minha comunicação efetiva com o cliente e com a equipe de desenvolvimento, assegurando alinhamento entre requisitos e entregas. Apliquei minha proatividade ao organizar todo o backlog, criar as User Stories e estruturar os critérios de aceite.
+Durante esse projeto, atuei como Product Owner, e, nesse papel pude aplicar minha comunicação efetiva com o cliente e com a equipe de desenvolvimento, assegurando alinhamento entre requisitos e entregas. Por nunca ter sido PO, encontrei algumas dificuldades no caminho, porém, apliquei a minha proatividade ao organizar todo o backlog, criar as User Stories e estruturar os critérios de aceite.
 
-Desenvolvi, ainda, minha gestão de tempo e organização, conciliando a API com outras demandas acadêmicas e profissionais, além de fortalecer minha liderança colaborativa, facilitando a condução das cerimônias e garantindo clareza na execução das sprints.
+Desenvolvi, ainda, minha gestão de tempo, conciliando a API com outras demandas acadêmicas e profissionais, além de fortalecer minha liderança colaborativa, facilitando a condução das cerimônias e garantindo clareza na execução das sprints.
+
+Por fim, apliquei principalmente, a minha organização ao estruturar de forma simples e objetiva, tudo que era passado nas sprints reviews, sejam elas: sugestões, críticas construtivas, pontos a melhorar, itens que não faziam tanto sentido para o cliente... resultando em reuniões internas entre o grupo e moldando o projeto de acordo com as preferências do cliente.
 </details>
